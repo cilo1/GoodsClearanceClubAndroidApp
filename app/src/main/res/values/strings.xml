@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoodsClearanceClub</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_membership">GCC</string>
+
+    <string-array name="GCC_sideBar">
+
+        <item>Forum</item>
+        <item>Current Broker</item>
+        <item>Conversations</item>
+        <item>Posts</item>
+        <item>News</item>
+        <item>Broker Bids</item>
+        <item>FAQs</item>
+
+    </string-array>
+
+    <string name="open">Open drawer</string>
+    <string name="close">Close drawer</string>
+
+</resources>
